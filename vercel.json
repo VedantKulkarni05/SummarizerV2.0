@@ -1,8 +1,7 @@
 {
   "version": 2,
   "functions": {
-    "src": "/index.py",
-    "api": {
+    "/index.py": {
       "runtime": "@vercel/python",
       "config": {
         "runtime": "python3.11"
