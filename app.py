@@ -177,6 +177,3 @@ def translate():
         return jsonify({"error": "GET request not supported"}), 405
 
 
-# Run the Flask application
-if __name__ == '__main__':
-    app.run(debug=True)
