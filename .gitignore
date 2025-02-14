@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore environment variables & config files
+.env
+*.env
+config.json
+
+# Ignore uploaded files (if applicable)
+static/uploaded_docs/
+static/videos/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
