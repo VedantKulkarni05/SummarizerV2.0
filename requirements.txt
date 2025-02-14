@@ -5,3 +5,4 @@ pytube==15.0.0
 txtai==6.3.0
 youtube_transcript_api==0.6.2
 gunicorn
+huggingface_hub==0.18.0  
